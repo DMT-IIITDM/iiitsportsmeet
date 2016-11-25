@@ -1,2 +1,3 @@
 # iiitsportsmeet
-website for iiit sports meet url : 
+website for iiit sports meet 
+url : iiitsportsmeet.tk 
