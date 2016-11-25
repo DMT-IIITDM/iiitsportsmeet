@@ -1,3 +1,3 @@
 # iiitsportsmeet
 website for iiit sports meet 
-url : iiitsportsmeet.tk 
+url : <a href="http://www.iiitsportsmeet.tk">iiitsportsmeet.tk </a>
